@@ -1,3 +1,3 @@
 # demo
-this is my first git repository /n
-this is also pretty small /n
+# this is my first git repository 
+# this is also pretty small 
